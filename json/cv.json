@@ -1,0 +1,40 @@
+{
+    "employment": [
+        {
+            "cvheading": "Rehngruppen AB",
+            "period" : "2019 - now",
+            "title": "Grafisk formgivare, konsult inom Microsoft & projektledare",
+            "text": "Produktion av mallar och dokument inom Office-paketet och Adobe-paketet. Grafisk formgivning. Visualisering av data och layout i Power BI. Utbildar inom Microsoft Office. Super User inom tillgänglighetsanpassning av dokument enligt webbdirektivet WCAG. Produktion av komplexa formulär i Acrobat. Projektledning av stora och små projekt med kunder från enmansföretag till Stockholms stad med 40 000 användare."
+        },
+        {
+            "cvheading": "Retriever AB",
+            "period" : "2013 - 2019",
+            "title": "Medieanalytiker",
+            "text": "Analys av det mediala genomslaget för företag, myndigheter och organisationer i både redaktionella och sociala medier. Muntliga och skriftliga presentationer och rapporter för kund som skapas i Excel och PowerPoint. Framtagning av grafiskt material på projektbasis, såsom marknadsföringsmaterial, skyltar och mallar för analyser."
+        },
+        {
+            "cvheading": "Flügger A/S",
+            "period" : "2010 - 2013",
+            "title": "Butiksbiträde",
+            "text": "Försäljning, kassahantering, exponering, rådgivning, övriga butikssysslor i Flüggerbutikerna i Vällingby Centrum samt Barkarby Handelsplats."
+        },
+        {
+            "cvheading": "Observer / Cision / Infopaq",
+            "period" : "2006 - 2009",
+            "title": "Junior medieanalytiker & redaktionsassistent",
+            "text": "Läsning och kategorisering av publicitet, och leverans av redaktionellt material och rapporter till kund. Ansvar för löpande fakturering och schema för analysavdelningen. Admin för tidredovisningssystemet på avdelningen (FLEX), samt administrativ assistent."
+        },
+        {
+            "cvheading": "Björn Borg AB",
+            "period" : "2000 - 2006",
+            "title": "Grafisk formgivare och marknadsföringskoordinator",
+            "text": "Grafisk formgivare och marknadsföringskoordinator för varumärket Björn Borg, Sverige och Europa. Framställande av marknadsföringsmaterial, annonser, påsar, pins, vepor etc. Fotograferingar, inhouse-material, koordination av press- och marknadsföringsmaterial för varumärkets distributörer, övervakning och hantering av reklamkampanjer. Offertförfrågningar och övervakning av tryckprocessen. Förpackningsdesign. Assistans vid behov för övriga designers och vid övriga IT-frågor.."
+        },
+        {
+            "cvheading": "Björn Borg AB",
+            "period" : "1999 - 2000",
+            "title": "Butikschef",
+            "text": "Personalansvar och planering, försäljning, exponering, inköp, kassarutiner, övrig administration."
+        }
+    ]
+}

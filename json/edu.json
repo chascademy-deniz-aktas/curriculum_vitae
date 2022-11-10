@@ -1,0 +1,39 @@
+{
+    "education": [
+        {
+            "cvheading": "Frontend Developer",
+            "period": "2021-22",
+            "text": "Diplomkurs Frontend - Grundläggande programmering inom HTML5, CSS3 och Javascript  |  50 YH-poäng, vid Changemaker Educations"
+        },
+        {
+            "cvheading": "Bokföring 1",
+            "period": "2022",
+            "text": "Bokföring 1 - Grundläggande praktisk bokföring med koppling till leverantörs- och kundreskontra vid FAR/Expektum"
+        },
+        {
+            "cvheading": "Småföretagande",
+            "period": "2010",
+            "text": "Småföretagande - Yrkespaket innehållande Affärsjuridik, Företagsekonomi I och II, Information och Personlig försäljning"
+        },
+        {
+            "cvheading": "Fristående högskolekurser",
+            "period": "2004",
+            "text": "Design för internet - grafisk design | 7,5 p vid Högskolan i Kalmar <br> Det offentliga rummets gestaltning | 7,5 p vid Högskolan på Gotland <br> Bostaden utformning | 7,5 p vid Växjö Unversitet <br> Bild och genus | 7,5 p vid Högskolan på Gotland"
+        },
+        {
+            "cvheading": "Diplomkurser",
+            "period": "1999",
+            "text": "Skylttextning, Dekorix  <br>  Fönsterskyltning & varuexponering, Dekorix  <br>  Personlig försäljning, Movement Utbildningar"
+        },
+        {
+            "cvheading": "Grafisk form",
+            "period": "1998",
+            "text": "Utbildning i grafisk formgivning och webdesign, Photoshop, Illustrator, QuarkXpress och Dreamweaver vid Konstskolan i Stockholm"
+        },
+        {
+            "cvheading": "Gymnasieutbildning",
+            "period": "1995-98",
+            "text": "Programmet Estetisk bild och formgivning vid S:t Görans gymnasium"
+        }
+    ]
+}
